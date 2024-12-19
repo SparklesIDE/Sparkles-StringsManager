@@ -1,6 +1,6 @@
 # Strings-Manager
 <div align="center"> 
-    <p>Quick, Easy and practical! </p>
+    <p>Quick, Easy and practical! by @trindadedev13</p>
     <img src="https://img.shields.io/badge/java-%23FFFFFF.svg?style=for-the-badge&logo=openjdk&logoColor=black">
         <a href="LICENSE">
         <img src="https://img.shields.io/github/license/trindadedev13/stringsmanager.svg?color=FFFFFF&style=for-the-badge&logo=gitbook&logoColor=ebebf0&labelColor=23232F" alt="License">
